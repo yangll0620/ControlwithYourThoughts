@@ -1,0 +1,2 @@
+totalreward	meanIdle	meanNonIdle	statethreshod
+12	4789.760016	4829.412660	4809.586338
